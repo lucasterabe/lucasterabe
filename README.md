@@ -1,6 +1,6 @@
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://coolreadme.xyz/api/hero-banner?user=lucasterabe&title=lucasterabe&subtitle=Building%20things%20on%20the%20internet&theme=dark"><img alt="lucasterabe hero" src="https://coolreadme.xyz/api/hero-banner?user=lucasterabe&title=lucasterabe&subtitle=Building%20things%20on%20the%20internet&theme=light"></picture>
-
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://coolreadme.xyz/api/typing-card?user=lucasterabe&lines=Building%20things%20on%20the%20internet%7Cgithub.com%2Flucasterabe&theme=dark"><img alt="typing intro" src="https://coolreadme.xyz/api/typing-card?user=lucasterabe&lines=Building%20things%20on%20the%20internet%7Cgithub.com%2Flucasterabe&theme=light"></picture>
+
+![lucasterabe cinematic](https://coolreadme.xyz/api/cinematic?user=lucasterabe&status=SHIPPING%20CODE&focus=projeto%20criado%20para%20aprender%20o%20basico%20do%20git%20no%20github)
 
 ### Featured projects
 
@@ -17,6 +17,12 @@
 ### Currently
 
 [![aulagit_20260331 netflix-style card](https://coolreadme.xyz/api/netflix-card?title=aulagit_20260331&synopsis=projeto%20criado%20para%20aprender%20o%20basico%20do%20git%20no%20github&genre=Open%20Source&match=98&rating=PG&img=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F264007885%3Fv%3D4&user=lucasterabe&style=poster)](https://github.com/lucasterabe/aulagit_20260331)
+
+![now listening](https://coolreadme.xyz/api/now-listening?song=Add%20your%20Spotify&artist=lucasterabe&album=placeholder&style=spotify)
+
+### Workflow
+
+![AI workflow](https://coolreadme.xyz/api/ai-card?tool=claude&role=co-pilot&since=2024&tagline=Building%20things%20on%20the%20internet&user=lucasterabe)
 
 ### Connect
 
